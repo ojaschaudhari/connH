@@ -1,0 +1,27 @@
+.home {
+    text-transform: uppercase;
+    color: #faf0e6;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 20px;
+    margin: 5px 50px;
+}
+
+.home:hover {
+    color: #0000ff;
+}
+
+.store {
+    text-transform: uppercase;
+    color: #faf0e6;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin: 8px 20px;
+    padding: 5px 50px;
+}
+
+.name {
+    margin-top: 8px;
+    font-size: 25px;
+}
